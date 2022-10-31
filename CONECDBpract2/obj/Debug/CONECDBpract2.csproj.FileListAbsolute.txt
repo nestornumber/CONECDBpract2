@@ -1,0 +1,34 @@
+C:\Users\henri\source\repos\CONECDBpract2\obj\Debug\CONECDBpract2.Form1.resources
+C:\Users\henri\source\repos\CONECDBpract2\obj\Debug\CONECDBpract2.Form2.resources
+C:\Users\henri\source\repos\CONECDBpract2\obj\Debug\CONECDBpract2.Properties.Resources.resources
+C:\Users\henri\source\repos\CONECDBpract2\obj\Debug\CONECDBpract2.csproj.GenerateResource.cache
+C:\Users\henri\source\repos\CONECDBpract2\obj\Debug\CONECDBpract2.csproj.CoreCompileInputs.cache
+C:\Users\henri\source\repos\CONECDBpract2\bin\Debug\CONECDBpract2.exe.config
+C:\Users\henri\source\repos\CONECDBpract2\bin\Debug\CONECDBpract2.exe
+C:\Users\henri\source\repos\CONECDBpract2\bin\Debug\CONECDBpract2.pdb
+C:\Users\henri\source\repos\CONECDBpract2\obj\Debug\CONECDBpract2.exe
+C:\Users\henri\source\repos\CONECDBpract2\obj\Debug\CONECDBpract2.pdb
+C:\Users\henri\source\repos\CONECDBpract2\obj\Debug\CONECDBpract2.csproj.AssemblyReference.cache
+C:\Users\sapatrimonio\Desktop\Semana 13\CONECDBpract2\bin\Debug\CONECDBpract2.exe.config
+C:\Users\sapatrimonio\Desktop\Semana 13\CONECDBpract2\bin\Debug\CONECDBpract2.exe
+C:\Users\sapatrimonio\Desktop\Semana 13\CONECDBpract2\bin\Debug\CONECDBpract2.pdb
+C:\Users\sapatrimonio\Desktop\Semana 13\CONECDBpract2\obj\Debug\CONECDBpract2.csproj.AssemblyReference.cache
+C:\Users\sapatrimonio\Desktop\Semana 13\CONECDBpract2\obj\Debug\CONECDBpract2.Form1.resources
+C:\Users\sapatrimonio\Desktop\Semana 13\CONECDBpract2\obj\Debug\CONECDBpract2.Form2.resources
+C:\Users\sapatrimonio\Desktop\Semana 13\CONECDBpract2\obj\Debug\CONECDBpract2.Properties.Resources.resources
+C:\Users\sapatrimonio\Desktop\Semana 13\CONECDBpract2\obj\Debug\CONECDBpract2.csproj.GenerateResource.cache
+C:\Users\sapatrimonio\Desktop\Semana 13\CONECDBpract2\obj\Debug\CONECDBpract2.csproj.CoreCompileInputs.cache
+C:\Users\sapatrimonio\Desktop\Semana 13\CONECDBpract2\obj\Debug\CONECDBpract2.exe
+C:\Users\sapatrimonio\Desktop\Semana 13\CONECDBpract2\obj\Debug\CONECDBpract2.pdb
+C:\Users\Néstor Rodríguez\Desktop\ITCA\Ciclos\Segundo Ciclo\DAE\Semana 13\CONECDBpract2\bin\Debug\CONECDBpract2.exe.config
+C:\Users\Néstor Rodríguez\Desktop\ITCA\Ciclos\Segundo Ciclo\DAE\Semana 13\CONECDBpract2\bin\Debug\CONECDBpract2.exe
+C:\Users\Néstor Rodríguez\Desktop\ITCA\Ciclos\Segundo Ciclo\DAE\Semana 13\CONECDBpract2\bin\Debug\CONECDBpract2.pdb
+C:\Users\Néstor Rodríguez\Desktop\ITCA\Ciclos\Segundo Ciclo\DAE\Semana 13\CONECDBpract2\obj\Debug\CONECDBpract2.csproj.AssemblyReference.cache
+C:\Users\Néstor Rodríguez\Desktop\ITCA\Ciclos\Segundo Ciclo\DAE\Semana 13\CONECDBpract2\obj\Debug\CONECDBpract2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Néstor Rodríguez\Desktop\ITCA\Ciclos\Segundo Ciclo\DAE\Semana 13\CONECDBpract2\obj\Debug\CONECDBpract2.Form1.resources
+C:\Users\Néstor Rodríguez\Desktop\ITCA\Ciclos\Segundo Ciclo\DAE\Semana 13\CONECDBpract2\obj\Debug\CONECDBpract2.Form2.resources
+C:\Users\Néstor Rodríguez\Desktop\ITCA\Ciclos\Segundo Ciclo\DAE\Semana 13\CONECDBpract2\obj\Debug\CONECDBpract2.Properties.Resources.resources
+C:\Users\Néstor Rodríguez\Desktop\ITCA\Ciclos\Segundo Ciclo\DAE\Semana 13\CONECDBpract2\obj\Debug\CONECDBpract2.csproj.GenerateResource.cache
+C:\Users\Néstor Rodríguez\Desktop\ITCA\Ciclos\Segundo Ciclo\DAE\Semana 13\CONECDBpract2\obj\Debug\CONECDBpract2.csproj.CoreCompileInputs.cache
+C:\Users\Néstor Rodríguez\Desktop\ITCA\Ciclos\Segundo Ciclo\DAE\Semana 13\CONECDBpract2\obj\Debug\CONECDBpract2.exe
+C:\Users\Néstor Rodríguez\Desktop\ITCA\Ciclos\Segundo Ciclo\DAE\Semana 13\CONECDBpract2\obj\Debug\CONECDBpract2.pdb
